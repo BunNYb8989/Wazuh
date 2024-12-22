@@ -1,6 +1,13 @@
 # Wazuh
 Unifide XDR and SIEM protection for endpoints and cloud workloads
 
+<p align="center">
+<br/>
+  <img src="main.png"/>
+<br/>
+<br/>
+</p>
+
 
 
 
