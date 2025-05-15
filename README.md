@@ -54,11 +54,11 @@ Open the Wazuh agent configuration file:
 ```sudo nano /var/ossec/etc/ossec.conf ```
 Look for the <server> block. It should look like this:
 xml
-
+```
 <server>
   <address>ip_addr</address>
 </server>
-
+```
 # check Status 
 ``` sudo systemctl status wazuh-agent ```
 
